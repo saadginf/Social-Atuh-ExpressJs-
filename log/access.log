@@ -162,3 +162,5 @@
 ::1 - - [25/Jan/2021:18:04:30 +0000] "GET /api/user HTTP/1.1" 400 13 "-" "PostmanRuntime/7.26.8"
 ::1 - - [25/Jan/2021:18:04:37 +0000] "GET /api/user HTTP/1.1" 400 13 "-" "PostmanRuntime/7.26.8"
 ::1 - - [25/Jan/2021:18:04:42 +0000] "GET /api/user HTTP/1.1" 401 14 "-" "PostmanRuntime/7.26.8"
+::1 - - [31/Jan/2021:12:22:29 +0000] "POST /api/user HTTP/1.1" 200 388 "http://localhost:8100/registration/R01" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36"
+::1 - - [31/Jan/2021:12:24:51 +0000] "POST /api/user HTTP/1.1" 200 395 "http://localhost:8100/registration/R01" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36"
